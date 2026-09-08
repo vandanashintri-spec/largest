@@ -6,4 +6,5 @@ else:
 print("B is largest")
 
 diff=a-b;
+
 print("Difference=",diff)
